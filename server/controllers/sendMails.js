@@ -6,8 +6,8 @@ const Admin = require("../models/admin")
 const transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
-        user: "tirumalarowthuv@gmail.com",
-        pass: "dthqdtvsagsiuivp"
+        user: "atsapp23@gmail.com",
+        pass: "espgvmcnayykcgbd"
     }
 })
 
